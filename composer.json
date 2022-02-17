@@ -1,0 +1,10 @@
+{
+    "name": "tideways/opentracing-bridge",
+    "description": "Bridges Tideways and opentracing-php to eath other",
+    "license": "MIT",
+    "require": {
+        "php": "7.4 | ^8.0",
+        "opentracing/opentracing": "^1.0",
+        "tideways/ext-tideways-stubs": "v5.3.11.2"
+    }
+}
