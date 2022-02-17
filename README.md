@@ -8,7 +8,7 @@ Tideways traces.
 via Composer:
 
 ```
-composer require tideways/opentracing-bridge
+composer require tideways/opentracing-bridge=dev-master
 ```
 
 ## Setup
